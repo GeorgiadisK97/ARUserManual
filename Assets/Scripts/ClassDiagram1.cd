@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SwitchSelectorScript">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAWAIAAAACIJAAAEYCAAAAICAAAIAIAsAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SwitchSelectorScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualHandler">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAgAgAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ManualHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_variable1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DisplayHandler">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAKAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DisplayHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_variable3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClickRoutine">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAEAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ClickRoutine.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_variable4" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ButtonHandler">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEASAAAAAAAIAABBAAAAQAAAAAYAAAAAAABCA=</HashCode>
+      <FileName>Assets\Scripts\ButtonHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_variable2" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
